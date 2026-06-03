@@ -34,10 +34,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="740" height="541" alt="Screenshot 2026-06-03 153422" src="https://github.com/user-attachments/assets/c7fd085b-277e-4ff0-9824-8821623c7fb1" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Help desk agent recieves the assignment and sets the ticket to a department and sets the SLA plan which is the Service Level Agreement or the target that you have to meet for certain things the thr Severity of the ticket is set in this case its Sev-C which is low severity
 </p>
 <br />
 

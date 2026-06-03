@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
+<h2>Demonstration</h2>
 <p>
 <img width="720" height="627" alt="Screenshot 2026-06-03 152237" src="https://github.com/user-attachments/assets/50f9a9fc-5d9c-4493-ba1f-f82e7e971596" />
 

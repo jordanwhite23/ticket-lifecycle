@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Help desk agent recieves the assignment and sets the ticket to a department and sets the SLA plan which is the Service Level Agreement or the target that you have to meet for certain things the thr Severity or priorty of the ticket in this case its normal
+Help desk agent recieves the assignment and sets the ticket to a department in this case the department is IT Support because we are dealing with password/ credentials and sets the SLA plan which is the Service Level Agreement or the target that you have to meet for certain things the thr Severity or priorty of the ticket in this case its normal
 </p>
 <br />
 

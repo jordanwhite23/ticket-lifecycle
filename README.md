@@ -30,7 +30,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-User is locked out of their account 
   User submits a request and osTicket automatically creates a ticket ID, sends confirmation email to user, and places the ticket in the queue
 </p>
 <br />

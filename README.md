@@ -43,9 +43,10 @@ Help desk agent recieves the assignment and sets the ticket to a department in t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="728" height="570" alt="Screenshot 2026-06-03 155333" src="https://github.com/user-attachments/assets/953e59db-56d8-4514-a358-b829df055870" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then we have the initial response to the user contacting them to get more information on the issue. The next step is to investigate and trouble shoot, checking account status and confirming the identity of the user before unlocking the account and resetting the password to ensure there is no supicious activity
 </p>
 <br />
